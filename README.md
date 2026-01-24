@@ -16,7 +16,7 @@ The framework allows users to upload any CSV dataset through a Streamlit-based u
 
 -Enable users to upload any structured dataset
 -Automatically identify regression or classification problems
--Compare multiple ML models on:
+-Compare multiple ML models on --
 -Accuracy metrics
 -Energy and resource usage
 -Promote Green AI principles through energy-aware model selection
@@ -177,6 +177,7 @@ This project is intended for educational and internship purposes only.
 🔗 Streamlit App:
 
 https://analysis-of-machine-learning-models-ehzag6fnl339432oj8ifoj.streamlit.app/
+
 
 
 
