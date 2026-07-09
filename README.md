@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-🌱 Green AI Model Comparison Framework Accuracy vs Energy Consumption
+🌱 Green AI Model Comparison Framework Accuracy vs Energy Consumptions
 
 ------------------------------------------------------------------------
 
