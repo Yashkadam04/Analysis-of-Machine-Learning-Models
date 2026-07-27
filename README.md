@@ -29,7 +29,7 @@ The framework allows users to upload any CSV dataset through a Streamlit-based u
 -Decision Tree
 -Random Forest
 -Support Vector Machine (SVR / SVM)
--------------------------------------------------------------------------
+--------------------------------------------------------------------
 
 📊 Evaluation Metrics
 
@@ -41,7 +41,7 @@ The framework allows users to upload any CSV dataset through a Streamlit-based u
 -Inference Time
 -CPU Usage
 -Memory Usage
--------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 🗂️ Project Directory Structure
 
